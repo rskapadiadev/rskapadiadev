@@ -1,11 +1,11 @@
 # 💫About Me :
-🔭 I’m currently working on Frontier.
-🌱 I’m currently learning more about TensorFlow.
-👯 I’m looking to collaborate on Youtube.
-💬 Ask me about React Native or any tech-related stuff.
-📫 How to reach me: Twitter - https://twitter.com/rishikapadia28,
-😄 Pronouns: He/His
-⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+🔭 I’m currently working on Frontier.<br />
+🌱 I’m currently learning more about TensorFlow.<br />
+👯 I’m looking to collaborate on Youtube.<br />
+💬 Ask me about React Native or any tech-related stuff.<br />
+📫 How to reach me: Twitter - https://twitter.com/rishikapadia28,<br />
+😄 Pronouns: He/His<br />
+⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br />
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rishikapadia2811) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_rishi_official_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rishi-kapadia-ab8316128) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rskapadiadev) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/rskapadiadev) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/rishikapadia28) 
