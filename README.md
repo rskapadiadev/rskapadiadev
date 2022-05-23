@@ -3,7 +3,7 @@
 🌱 I’m currently learning more about TensorFlow.<br />
 👯 I’m looking to collaborate on Youtube.<br />
 💬 Ask me about React Native or any tech-related stuff.<br />
-📫 How to reach me: Twitter - https://twitter.com/rishikapadia28,<br />
+📫 How to reach me: Twitter - https://twitter.com/rishikapadia28<br />
 😄 Pronouns: He/His<br />
 ⚡ Fun fact: I spend almost 12 hours listening to songs every day.<br />
 
